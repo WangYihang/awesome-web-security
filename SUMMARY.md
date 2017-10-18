@@ -16,10 +16,10 @@
 * [代码审计](audit/README.md)
   * [常用工具](audit/tools/README.md)
 * [渗透测试](pentest/README.md)
-  * [WebShell](pentest/webshell.md)
-  * [Reverse Shell](pentest/reverseshell.md)
   * [CTF 搅屎](pentest/ctf-jiao-shi.md)
   * [流量操控技术](pentest/liu-liang-cao-kong-ji-zhu.md)
   * [主机发现](pentest/zhu-ji-fa-xian.md)
   * [内网中间人](pentest/nei-wang-zhong-jian-ren.md)
+
+
 
