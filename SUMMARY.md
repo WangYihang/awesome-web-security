@@ -20,6 +20,8 @@
   * [流量操控技术](pentest/liu-liang-cao-kong-ji-zhu.md)
   * [主机发现](pentest/zhu-ji-fa-xian.md)
   * [内网中间人](pentest/nei-wang-zhong-jian-ren.md)
+  * [一句话木马](pentest/yi-ju-hua-mu-ma.md)
+  * [反弹 shell](pentest/fan-tan-shell.md)
 
 
 
