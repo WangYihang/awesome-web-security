@@ -3,7 +3,7 @@
 * [介绍](README.md)
 * [常用工具](tools/README.md)
 * [开源仓库](repositories/README.md)
-* [优秀文章](you-xiu-wen-zhang.md)
+* [优秀文章](articles/you-xiu-wen-zhang.md)
 * [常见漏洞](vulnerabilities/README.md)
   * [文件包含](vulnerabilities/lfi.md)
   * [文件上传](vulnerabilities/upload.md)
