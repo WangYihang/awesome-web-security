@@ -12,8 +12,8 @@
   * [命令代码执行](vulnerabilities/rce.md)
   * [敏感信息泄露](vulnerabilities/leak.md)
   * [随机数安全](vulnerabilities/random.md)
-* [开源仓库](repositories/README.md)
 * [代码审计](audit/README.md)
   * [常用工具](audit/tools/README.md)
 * [Webshell](webshell.md)
+* [ReverseShell](reverseshell.md)
 
