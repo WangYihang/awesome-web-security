@@ -21,4 +21,5 @@
   * [CTF 搅屎](pentest/ctf-jiao-shi.md)
   * [流量操控技术](pentest/liu-liang-cao-kong-ji-zhu.md)
   * [主机发现](pentest/zhu-ji-fa-xian.md)
+  * [内网中间人](pentest/nei-wang-zhong-jian-ren.md)
 
