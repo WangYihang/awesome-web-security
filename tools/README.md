@@ -1,4 +1,4 @@
-# 综合工具 : 
+# 综合工具 :
 
 [BurpSuite](https://portswigger.net/burp)
 
@@ -181,52 +181,6 @@ https://tools.kali.org/maintaining-access/dns2tcp
 Dns2tcp is a tool for relaying TCP connections over DNS. Among other things, 
 it can be used to bypass captive portals (e.g. hotels, airport, ...) 
 when only port 53/udp is allowed by the firewall.
-```
-
----
-
-TODO
-
-```
-WebShell
-
-asp
-asp.net
-bash
-jsp
-php
-python
-
-字典 :
-
-* 弱口令字典
-
-    WordPress 常用字典
-    通用字典
-    ssh常用字典
-    WIFI常用字典
-    WebShell常用字典
-
-* 目录字典
-
-    通用字典
-    php字典
-    WebShell字典
-    WordPress字典
-
-* 子域名字典
-
-* 用户名字典
-
-    中国用户名字典
-    美国用户名字典
----
-
-笔记 : 
-
-* 内网中间人笔记
-* 内网渗透隧道建立笔记
-* 利用 phpMyAdmin getshell 笔记
 ```
 
 
