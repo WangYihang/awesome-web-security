@@ -52,6 +52,9 @@ php 的文件包含针对于上述代码中的四个函数 :
 ```
 # locate 命令的数据库文件 , 保存了目标服务器的文件树
 /var/lib/locatedb
+# 配置文件
+/etc/apache2/port.conf
+/etc/apache2/apache2.conf
 ```
 
 #### 7. 总结
