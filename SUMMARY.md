@@ -15,6 +15,7 @@
   * [随机数安全](vulnerabilities/random.md)
 * [代码审计](audit/README.md)
   * [常用工具](audit/tools/README.md)
+  * [书籍](audit/tools/shu-ji.md)
 * [渗透测试](pentest/README.md)
   * [CTF 搅屎](pentest/ctf-jiao-shi.md)
   * [流量操控技术](pentest/liu-liang-cao-kong-ji-zhu.md)
@@ -22,6 +23,4 @@
   * [内网中间人](pentest/nei-wang-zhong-jian-ren.md)
   * [一句话木马](pentest/yi-ju-hua-mu-ma.md)
   * [反弹 shell](pentest/fan-tan-shell.md)
-
-
 
