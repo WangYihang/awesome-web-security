@@ -12,15 +12,15 @@
 ?>
 ```
 
-php 的文件包含针对于上述代码中的四个函数 : 
+php 的文件包含针对于上述代码中的四个函数 :
 
-> http://php.net/manual/en/function.include.php
+> [http://php.net/manual/en/function.include.php](http://php.net/manual/en/function.include.php)
 >
-> http://php.net/manual/en/function.require.php
+> [http://php.net/manual/en/function.require.php](http://php.net/manual/en/function.require.php)
 >
-> http://php.net/manual/en/function.include-once.php
+> [http://php.net/manual/en/function.include-once.php](http://php.net/manual/en/function.include-once.php)
 >
-> http://php.net/manual/en/function.require-once.php
+> [http://php.net/manual/en/function.require-once.php](http://php.net/manual/en/function.require-once.php)
 
 文件包含函数不会检查被包含的文件是否是一个正常的 php 文件
 
@@ -37,6 +37,10 @@ php 的文件包含针对于上述代码中的四个函数 :
 #### 5. 文件包含与日志文件结合导致 getshell
 
 #### 6. 文件包含与 cgi 结合导致 getshell
+
+#### 7. 总结
+
+事实上可以看到在文件包含漏洞中 , 只要目标服务器上的某一个已知路径的文件内容可控 , 那么我们就可以利用文件包含功能去包含这个文件然后 getshell
 
 
 
