@@ -38,9 +38,17 @@ php 的文件包含针对于上述代码中的四个函数 :
 
 #### 6. 文件包含与 cgi 结合导致 getshell
 
+#### 7. 文件包含与 segment fault 结合导致 getshell
+
+#### 8. 文件包含与临时文件结合导致 getshell
+
 #### 7. 总结
 
 事实上可以看到在文件包含漏洞中 , 只要目标服务器上的某一个已知路径的文件内容可控 , 那么我们就可以利用文件包含功能去包含这个文件然后 getshell
+
+#### 8. 参考文章
+
+> https://github.com/sektioneins/pcc/wiki/PHP-htaccess-injection-cheat-sheet\#example-1a-file-inclusion
 
 
 
