@@ -14,6 +14,9 @@
   * [随机数安全](vulnerabilities/random.md)
 * [代码审计](audit/README.md)
   * [常用工具](audit/tools/README.md)
+* [渗透测试](pentest/README.md)
+    * [WebShell](pentest/webshell.md)
+    * [Reverse Shell](pentest/reverseshell.md)
 
 
 
