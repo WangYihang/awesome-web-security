@@ -36,6 +36,11 @@ php 的文件包含针对于上述代码中的四个函数 :
 
 #### 5. 文件包含与日志文件结合导致 getshell
 
+```
+# ssh 登录日志
+/var/auth.log
+```
+
 #### 6. 文件包含与 cgi 结合导致 getshell
 
 #### 7. 文件包含与 segment fault 结合导致 getshell
@@ -57,15 +62,13 @@ php 的文件包含针对于上述代码中的四个函数 :
 
 > [https://github.com/sektioneins/pcc/wiki/PHP-htaccess-injection-cheat-sheet\#example-1a-file-inclusion](https://github.com/sektioneins/pcc/wiki/PHP-htaccess-injection-cheat-sheet#example-1a-file-inclusion)
 >
-> https://github.com/bl4de/security\_whitepapers/blob/master/PHP\_LFI\_rfc1867\_temporary\_files.pdf
+> [https://github.com/bl4de/security\_whitepapers/blob/master/PHP\_LFI\_rfc1867\_temporary\_files.pdf](https://github.com/bl4de/security_whitepapers/blob/master/PHP_LFI_rfc1867_temporary_files.pdf)
 >
-> https://github.com/bl4de/security\_whitepapers/blob/master/LFI\_testing\_techniques.pdf
+> [https://github.com/bl4de/security\_whitepapers/blob/master/LFI\_testing\_techniques.pdf](https://github.com/bl4de/security_whitepapers/blob/master/LFI_testing_techniques.pdf)
 >
-> https://github.com/bl4de/security\_whitepapers/blob/master/LFI%20With%20PHPInfo%20Assistance.pdf
+> [https://github.com/bl4de/security\_whitepapers/blob/master/LFI With PHPInfo Assistance.pdf](https://github.com/bl4de/security_whitepapers/blob/master/LFI With PHPInfo Assistance.pdf)
 >
-> https://github.com/bl4de/security\_whitepapers/blob/master/LFI-to-RCE.txt
-
-
+> [https://github.com/bl4de/security\_whitepapers/blob/master/LFI-to-RCE.txt](https://github.com/bl4de/security_whitepapers/blob/master/LFI-to-RCE.txt)
 
 
 
