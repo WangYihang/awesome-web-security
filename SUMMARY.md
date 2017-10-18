@@ -18,4 +18,5 @@
 * [渗透测试](pentest/README.md)
   * [WebShell](pentest/webshell.md)
   * [Reverse Shell](pentest/reverseshell.md)
+  * [CTF 搅屎](pentest/ctf-jiao-shi.md)
 
