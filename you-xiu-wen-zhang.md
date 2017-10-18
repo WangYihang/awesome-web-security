@@ -1,90 +1,62 @@
-\# 文章
+# 文章
 
+#### SQL注入
 
+#### 文件包含
 
-SQL注入
+\*\[利用本地包含漏洞执行任意代码\]\([http://blog.csdn.net/xysoul/article/details/45031675\](http://blog.csdn.net/xysoul/article/details/45031675\)\)
 
+\*\[Upgrade from LFI to RCE via PHP Sessions\]\([https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/\](https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/\)\)
 
+\* \[PHP文件包含漏洞详解\(包含截断方法\)\]\([https://www.2cto.com/article/201304/204158.html\](https://www.2cto.com/article/201304/204158.html\)\)
 
-文件包含
+\* \[谈一谈php://filter的妙用\]\([https://www.leavesongs.com/PENETRATION/php-filter-magic.html\](https://www.leavesongs.com/PENETRATION/php-filter-magic.html\)\)
 
-\* \[利用本地包含漏洞执行任意代码\]\(http://blog.csdn.net/xysoul/article/details/45031675\)
+\* \[LFI、RFI、PHP封装协议安全问题学习\]\([http://www.tuicool.com/articles/VvaAzy\](http://www.tuicool.com/articles/VvaAzy\)\)
 
-\* \[Upgrade from LFI to RCE via PHP Sessions\]\(https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/\)
+#### XSS
 
-\* \[PHP文件包含漏洞详解\(包含截断方法\)\]\(https://www.2cto.com/article/201304/204158.html\)
+\* \[xss如何加载远程js的一些tips\]\([http://www.freebuf.com/articles/web/24496.html\](http://www.freebuf.com/articles/web/24496.html\)\)
 
-\* \[谈一谈php://filter的妙用\]\(https://www.leavesongs.com/PENETRATION/php-filter-magic.html\)
+#### 命令执行
 
-\* \[LFI、RFI、PHP封装协议安全问题学习\]\(http://www.tuicool.com/articles/VvaAzy\)
+#### WebShell
 
+\* \[那些强悍的PHP一句话后门\]\([https://www.virzz.com/2016/10/19/那些强悍的PHP一句话后门.html\](https://www.virzz.com/2016/10/19/那些强悍的PHP一句话后门.html\)\)
 
+\* \[php webshell下直接反弹shell（不借助任何其他语言）\]\([https://www.leavesongs.com/PHP/backshell-via-php.html\](https://www.leavesongs.com/PHP/backshell-via-php.html\)\)
 
-XSS
+\* \[隐藏webshell的几条建议\]\([http://3xp10it.cc/webshell/2016/07/28/隐藏webshell/\](http://3xp10it.cc/webshell/2016/07/28/隐藏webshell/\)\)
 
-\* \[xss如何加载远程js的一些tips\]\(http://www.freebuf.com/articles/web/24496.html\)
+\* \[创造tips的秘籍——PHP回调后门\]\([https://www.leavesongs.com/PENETRATION/php-callback-backdoor.html\#0x03-php548assert\](https://www.leavesongs.com/PENETRATION/php-callback-backdoor.html#0x03-php548assert\)\)
 
+#### 内网渗透
 
+\* \[内网中间人玩法备忘录\]\([http://3xp10it.cc/web/2017/05/16/内网中间人玩法备忘录/\](http://3xp10it.cc/web/2017/05/16/内网中间人玩法备忘录/\)\)
 
-命令执行
+\* \[乙方渗透测试之Fuzz爆破\]\([http://www.cnnetarmy.com/乙方渗透测试之Fuzz爆破/\](http://www.cnnetarmy.com/乙方渗透测试之Fuzz爆破/\)\)
 
+\* \[乙方渗透测试之信息收集\]\([http://www.cnnetarmy.com/乙方渗透测试之信息收集/\](http://www.cnnetarmy.com/乙方渗透测试之信息收集/\)\)
 
+\* \[内网渗透测试定位技术总结\]\([https://zhuanlan.zhihu.com/p/26171460\](https://zhuanlan.zhihu.com/p/26171460\)\)
 
-WebShell
+\* \[内网渗透随想\]\([http://www.secbox.cn/skill/6872.html\](http://www.secbox.cn/skill/6872.html\)\)
 
-\* \[那些强悍的PHP一句话后门\]\(https://www.virzz.com/2016/10/19/%E9%82%A3%E4%BA%9B%E5%BC%BA%E6%82%8D%E7%9A%84PHP%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%90%8E%E9%97%A8.html\)
+#### 沙箱逃逸
 
-\* \[php webshell下直接反弹shell（不借助任何其他语言）\]\(https://www.leavesongs.com/PHP/backshell-via-php.html\)
+\* \[Python沙箱逃逸的n种姿势\]\([https://mp.weixin.qq.com/s/PLI-yjqmA3gwk5w3KHzOyA\](https://mp.weixin.qq.com/s/PLI-yjqmA3gwk5w3KHzOyA\)\)
 
-\* \[隐藏webshell的几条建议\]\(http://3xp10it.cc/webshell/2016/07/28/%E9%9A%90%E8%97%8Fwebshell/\)
+#### WAF 绕过
 
-\* \[创造tips的秘籍——PHP回调后门\]\(https://www.leavesongs.com/PENETRATION/php-callback-backdoor.html\#0x03-php548assert\)
+#### 社会工程
 
+\* \[密码破解与常见社会心理学分析最新漏洞-Www.SitedirSEC.Com\]\([http://www.sitedirsec.com/exploit-1835.html\](http://www.sitedirsec.com/exploit-1835.html\)\)
 
+#### 代码审计
 
-内网渗透
+\* \[PHP漏洞挖掘——进阶篇\]\([http://blog.nsfocus.net/php-vulnerability-mining/\](http://blog.nsfocus.net/php-vulnerability-mining/\)\)
 
-\* \[内网中间人玩法备忘录\]\(http://3xp10it.cc/web/2017/05/16/%E5%86%85%E7%BD%91%E4%B8%AD%E9%97%B4%E4%BA%BA%E7%8E%A9%E6%B3%95%E5%A4%87%E5%BF%98%E5%BD%95/\)
+#### CTF
 
-\* \[乙方渗透测试之Fuzz爆破\]\(http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8BFuzz%E7%88%86%E7%A0%B4/\)
-
-\* \[乙方渗透测试之信息收集\]\(http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/\)
-
-\* \[内网渗透测试定位技术总结\]\(https://zhuanlan.zhihu.com/p/26171460\)
-
-\* \[内网渗透随想\]\(http://www.secbox.cn/skill/6872.html\)
-
-
-
-
-
-沙箱逃逸
-
-\* \[Python沙箱逃逸的n种姿势\]\(https://mp.weixin.qq.com/s/PLI-yjqmA3gwk5w3KHzOyA\)
-
-
-
-WAF 绕过
-
-
-
-社会工程
-
-\* \[密码破解与常见社会心理学分析最新漏洞-Www.SitedirSEC.Com\]\(http://www.sitedirsec.com/exploit-1835.html\)
-
-
-
-代码审计
-
-\* \[PHP漏洞挖掘——进阶篇\]\(http://blog.nsfocus.net/php-vulnerability-mining/\)
-
-
-
-
-
-CTF
-
-\* \[论如何在CTF比赛中搅“shi”\]\(http://www.freebuf.com/articles/web/118149.html\)
-
-
+\* \[论如何在CTF比赛中搅“shi”\]\([http://www.freebuf.com/articles/web/118149.html\](http://www.freebuf.com/articles/web/118149.html\)\)
 
