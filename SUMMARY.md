@@ -9,7 +9,7 @@
   * [文件包含](vulnerabilities/lfi.md)
   * [文件上传](vulnerabilities/upload.md)
   * [SQL注入](vulnerabilities/sqli.md)
-  * [跨站脚本\(XSS\)](vulnerabilities/xss.md)
+  * [XSS](vulnerabilities/xss.md)
   * [SSRF](vulnerabilities/ssrf.md)
   * [CSRF](vulnerabilities/csrf.md)
   * [命令代码执行](vulnerabilities/rce.md)
