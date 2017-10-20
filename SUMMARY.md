@@ -5,6 +5,7 @@
 * [开源仓库](repositories/README.md)
 * [优秀文章](articles/you-xiu-wen-zhang.md)
 * [常见漏洞](vulnerabilities/README.md)
+  * [/etc/passwd](vulnerabilities/passwd)
   * [文件包含](vulnerabilities/lfi.md)
   * [文件上传](vulnerabilities/upload.md)
   * [SQL注入](vulnerabilities/sqli.md)
