@@ -42,6 +42,7 @@
   * [网站](chang-yong-gong-ju/xin-xi-sou-ji/wang-zhan.md)
 * [漏洞利用](chang-yong-gong-ju/lou-dong-li-yong/README.md)
   * [netcat](chang-yong-gong-ju/lou-dong-li-yong/netcat.md)
+  * [浏览器插件](chang-yong-gong-ju/lou-dong-li-yong/liu-lan-qi-cha-jian.md)
   * [BurpSuite](chang-yong-gong-ju/lou-dong-li-yong/burpsuite.md)
 * [服务器运维](chang-yong-gong-ju/fu-wu-qi-yun-wei/README.md)
   * [zsh](chang-yong-gong-ju/fu-wu-qi-yun-wei/zsh.md)
