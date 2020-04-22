@@ -57,9 +57,11 @@
   * [敏感信息泄露](dai-zheng-li/vulnerabilities/leak.md)
   * [随机数安全](dai-zheng-li/vulnerabilities/random.md)
 * [代码审计](dai-zheng-li/audit/README.md)
+  * [xdebug](dai-zheng-li/audit/xdebug.md)
   * [常用工具](dai-zheng-li/audit/tools.md)
   * [书籍](dai-zheng-li/audit/shu-ji.md)
 * [渗透测试](dai-zheng-li/pentest/README.md)
+  * [Untitled](dai-zheng-li/pentest/untitled.md)
   * [CTF 搅屎](dai-zheng-li/pentest/ctf-jiao-shi.md)
   * [流量操控技术](dai-zheng-li/pentest/liu-liang-cao-kong-ji-zhu.md)
   * [主机发现](dai-zheng-li/pentest/zhu-ji-fa-xian.md)
@@ -86,4 +88,12 @@
 ## 漏洞挖掘
 
 * [Untitled](lou-dong-wa-jue/untitled.md)
+
+## 渗透测试
+
+* [Untitled](shen-tou-ce-shi/untitled.md)
+
+## 取证
+
+* [Untitled](qu-zheng/untitled.md)
 

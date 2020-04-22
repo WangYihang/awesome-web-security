@@ -34,3 +34,51 @@
 * Chrome/Firefox
 * BurpSuite
 
+
+
+Ubuntu 环境搭建
+
+```text
+# switch to root user
+sudo su
+
+# update source
+wget https://mirrors.ustc.edu.cn/repogen/conf/ubuntu-https-4-bionic -O /etc/apt/source.list
+
+# upgrade
+apt update && apt upgrade -y && apt dist-upgrade -y && apt clean -y && apt autoclean -y && apt remove -y && apt autoremve -y
+
+# devops
+apt install \
+    openssh-server \
+    vim \
+    zsh \
+    tmux \
+    curl \
+    unar \
+    lrzsz \
+    python \
+    python-pip \
+    python3 \
+    python3-pip
+
+# build
+apt install \
+    build-essential \
+    gdb
+
+# docker
+apt install \
+    docker.io \
+    docker-compose
+
+# scanner
+apt install \
+    nmap \
+    masscan \
+    zmap
+
+# oh my zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
