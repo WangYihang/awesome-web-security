@@ -12,7 +12,11 @@ World Wide Web 历史
 
 #### CGI（Common Gateway Interface）
 
-本质：根据客户端发来的用户请求**动态生成** HTML 给客户端进行展示 动态 != 动 C、Bash、Perl
+本质：根据客户端发来的用户请求**动态生成** HTML 给客户端进行展示 
+
+> 动态 != 动
+
+C、Bash、Perl
 
 #### 服务端脚本语言
 
