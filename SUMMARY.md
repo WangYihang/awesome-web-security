@@ -77,10 +77,6 @@
 
 * [敏感信息泄漏](yun-wei-an-quan/untitled.md)
 
-## 漏洞挖掘
-
-* [工具](lou-dong-wa-jue/untitled.md)
-
 ## 渗透测试
 
 * [反弹 Shell](shen-tou-ce-shi/untitled.md)
@@ -118,6 +114,10 @@
   * [内网中间人](dai-zheng-li/pentest/nei-wang-zhong-jian-ren.md)
   * [一句话木马](dai-zheng-li/pentest/yi-ju-hua-mu-ma.md)
   * [反弹 shell](dai-zheng-li/pentest/fan-tan-shell.md)
+
+## 漏洞挖掘
+
+* [工具](lou-dong-wa-jue/untitled.md)
 
 ## 安全研究
 
