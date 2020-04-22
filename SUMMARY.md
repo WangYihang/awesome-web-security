@@ -1,9 +1,9 @@
-# Summary
+# Table of contents
 
 * [介绍](README.md)
-* [常用工具](tools/README.md)
-* [开源仓库](repositories/README.md)
-* [优秀文章](articles/you-xiu-wen-zhang.md)
+* [常用工具](tools.md)
+* [开源仓库](repositories.md)
+* [优秀文章](you-xiu-wen-zhang.md)
 * [常见漏洞](vulnerabilities/README.md)
   * [/etc/passwd](vulnerabilities/passwd.md)
   * [文件包含](vulnerabilities/lfi.md)
@@ -16,8 +16,8 @@
   * [敏感信息泄露](vulnerabilities/leak.md)
   * [随机数安全](vulnerabilities/random.md)
 * [代码审计](audit/README.md)
-  * [常用工具](audit/tools/README.md)
-  * [书籍](audit/tools/shu-ji.md)
+  * [常用工具](audit/tools.md)
+  * [书籍](audit/shu-ji.md)
 * [渗透测试](pentest/README.md)
   * [CTF 搅屎](pentest/ctf-jiao-shi.md)
   * [流量操控技术](pentest/liu-liang-cao-kong-ji-zhu.md)
@@ -25,4 +25,12 @@
   * [内网中间人](pentest/nei-wang-zhong-jian-ren.md)
   * [一句话木马](pentest/yi-ju-hua-mu-ma.md)
   * [反弹 shell](pentest/fan-tan-shell.md)
+
+## 导言
+
+* [HTTP 协议](dao-yan/http-xie-yi.md)
+
+## 常用工具
+
+* [信息搜集](chang-yong-gong-ju/xin-xi-sou-ji.md)
 
