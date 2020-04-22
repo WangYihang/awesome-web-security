@@ -8,6 +8,8 @@
 * [Web 开发技术回顾](dao-yan/web-kai-fa-ji-shu-hui-gu.md)
 * [漏洞分类](dao-yan/lou-dong-fen-lei.md)
 * [环境搭建](dao-yan/huan-jing-da-jian.md)
+* [PHP 语言基础](dao-yan/php-yu-yan-ji-chu.md)
+* [Python 语言基础](dao-yan/python-yu-yan-ji-chu.md)
 
 ## 常用工具
 
@@ -42,24 +44,40 @@
 
 ## 前端安全
 
-* [Untitled](qian-duan-an-quan/untitled.md)
+* [跨站脚本（XSS）](qian-duan-an-quan/untitled.md)
+* [客户端请求伪造（CSRF）](qian-duan-an-quan/ke-hu-duan-qing-qiu-wei-zao-csrf.md)
 
 ## 后端安全
 
-* [文件上传漏洞](hou-duan-an-quan/wen-jian-shang-chuan-lou-dong.md)
-* [文件包含漏洞](hou-duan-an-quan/untitled.md)
+* [语言特性漏洞](hou-duan-an-quan/yu-yan-te-xing-lou-dong/README.md)
+  * [文件上传](hou-duan-an-quan/yu-yan-te-xing-lou-dong/wen-jian-shang-chuan-lou-dong.md)
+  * [文件包含](hou-duan-an-quan/yu-yan-te-xing-lou-dong/untitled.md)
+  * [变量覆盖](hou-duan-an-quan/yu-yan-te-xing-lou-dong/bian-liang-fu-gai.md)
+* [逻辑漏洞](hou-duan-an-quan/luo-ji-lou-dong/README.md)
+  * [功能级访问控制缺失](hou-duan-an-quan/luo-ji-lou-dong/gong-neng-ji-fang-wen-kong-zhi-que-shi.md)
+  * [失效的身份认证与会话管理](hou-duan-an-quan/luo-ji-lou-dong/shi-xiao-de-shen-fen-ren-zheng-yu-hui-hua-guan-li.md)
+  * [条件竞争](hou-duan-an-quan/luo-ji-lou-dong/tiao-jian-jing-zheng.md)
+  * [失效的验证](hou-duan-an-quan/luo-ji-lou-dong/shi-xiao-de-yan-zheng.md)
+* [注入类漏洞](hou-duan-an-quan/zhu-ru-lei-lou-dong/README.md)
+  * [SQL注入](hou-duan-an-quan/zhu-ru-lei-lou-dong/sql-zhu-ru.md)
+  * [远程命令执行](hou-duan-an-quan/zhu-ru-lei-lou-dong/yuan-cheng-ming-ling-zhi-hang.md)
+  * [远程代码执行](hou-duan-an-quan/zhu-ru-lei-lou-dong/yuan-cheng-dai-ma-zhi-hang.md)
+  * [反序列化](hou-duan-an-quan/zhu-ru-lei-lou-dong/fan-xu-lie-hua.md)
+  * [XML 外部实体（XXE）](hou-duan-an-quan/zhu-ru-lei-lou-dong/xml-wai-bu-shi-ti-xxe.md)
+  * [服务端请求伪造](hou-duan-an-quan/zhu-ru-lei-lou-dong/fu-wu-duan-qing-qiu-wei-zao.md)
+  * [任意文件读取](hou-duan-an-quan/zhu-ru-lei-lou-dong/ren-yi-wen-jian-du-qu.md)
 
 ## 中间件安全
 
-* [Untitled](zhong-jian-jian-an-quan/untitled.md)
+* [CLRF Injection](zhong-jian-jian-an-quan/untitled.md)
 
 ## 运维安全
 
-* [Untitled](yun-wei-an-quan/untitled.md)
+* [敏感信息泄漏](yun-wei-an-quan/untitled.md)
 
 ## 漏洞挖掘
 
-* [Untitled](lou-dong-wa-jue/untitled.md)
+* [工具](lou-dong-wa-jue/untitled.md)
 
 ## 渗透测试
 
