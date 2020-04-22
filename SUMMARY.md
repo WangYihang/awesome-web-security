@@ -32,5 +32,23 @@
 
 ## 常用工具
 
-* [信息搜集](chang-yong-gong-ju/xin-xi-sou-ji.md)
+* [信息搜集](chang-yong-gong-ju/xin-xi-sou-ji/README.md)
+  * [主机发现](chang-yong-gong-ju/xin-xi-sou-ji/zhu-ji-fa-xian/README.md)
+    * [zenmap](chang-yong-gong-ju/xin-xi-sou-ji/zhu-ji-fa-xian/untitled.md)
+    * [zmap](chang-yong-gong-ju/xin-xi-sou-ji/zhu-ji-fa-xian/zmap.md)
+    * [nmap](chang-yong-gong-ju/xin-xi-sou-ji/zhu-ji-fa-xian/nmap.md)
+    * [RouterScan](chang-yong-gong-ju/xin-xi-sou-ji/zhu-ji-fa-xian/routerscan.md)
+    * [masscan](chang-yong-gong-ju/xin-xi-sou-ji/zhu-ji-fa-xian/masscan.md)
+  * [网站](chang-yong-gong-ju/xin-xi-sou-ji/wang-zhan.md)
+* [漏洞利用](chang-yong-gong-ju/lou-dong-li-yong/README.md)
+  * [netcat](chang-yong-gong-ju/lou-dong-li-yong/netcat.md)
+  * [BurpSuite](chang-yong-gong-ju/lou-dong-li-yong/burpsuite.md)
+* [服务器运维](chang-yong-gong-ju/fu-wu-qi-yun-wei/README.md)
+  * [zsh](chang-yong-gong-ju/fu-wu-qi-yun-wei/zsh.md)
+  * [xshell](chang-yong-gong-ju/fu-wu-qi-yun-wei/xshell.md)
+  * [vim](chang-yong-gong-ju/fu-wu-qi-yun-wei/vim.md)
+  * [unar](chang-yong-gong-ju/fu-wu-qi-yun-wei/unar.md)
+  * [tmux](chang-yong-gong-ju/fu-wu-qi-yun-wei/tmux.md)
+* [权限维持](chang-yong-gong-ju/quan-xian-wei-chi/README.md)
+  * [AntSword](chang-yong-gong-ju/quan-xian-wei-chi/antsword.md)
 
