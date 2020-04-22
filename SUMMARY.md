@@ -8,7 +8,8 @@
 * [Web 开发技术回顾](dao-yan/web-kai-fa-ji-shu-hui-gu.md)
 * [漏洞分类](dao-yan/lou-dong-fen-lei.md)
 * [环境搭建](dao-yan/huan-jing-da-jian.md)
-* [PHP 语言基础](dao-yan/php-yu-yan-ji-chu.md)
+* [PHP 语言基础](dao-yan/php-yu-yan-ji-chu/README.md)
+  * [遇到问题的解决流程](dao-yan/php-yu-yan-ji-chu/yu-dao-wen-ti-de-jie-jue-liu-cheng.md)
 * [Python 语言基础](dao-yan/python-yu-yan-ji-chu.md)
 
 ## 常用工具
@@ -50,9 +51,10 @@
 ## 后端安全
 
 * [语言特性漏洞](hou-duan-an-quan/yu-yan-te-xing-lou-dong/README.md)
-  * [文件上传](hou-duan-an-quan/yu-yan-te-xing-lou-dong/wen-jian-shang-chuan-lou-dong.md)
-  * [文件包含](hou-duan-an-quan/yu-yan-te-xing-lou-dong/untitled.md)
-  * [变量覆盖](hou-duan-an-quan/yu-yan-te-xing-lou-dong/bian-liang-fu-gai.md)
+  * [PHP](hou-duan-an-quan/yu-yan-te-xing-lou-dong/php/README.md)
+    * [文件包含](hou-duan-an-quan/yu-yan-te-xing-lou-dong/php/untitled.md)
+    * [变量覆盖](hou-duan-an-quan/yu-yan-te-xing-lou-dong/php/bian-liang-fu-gai.md)
+    * [文件上传](hou-duan-an-quan/yu-yan-te-xing-lou-dong/php/wen-jian-shang-chuan-lou-dong.md)
 * [逻辑漏洞](hou-duan-an-quan/luo-ji-lou-dong/README.md)
   * [功能级访问控制缺失](hou-duan-an-quan/luo-ji-lou-dong/gong-neng-ji-fang-wen-kong-zhi-que-shi.md)
   * [失效的身份认证与会话管理](hou-duan-an-quan/luo-ji-lou-dong/shi-xiao-de-shen-fen-ren-zheng-yu-hui-hua-guan-li.md)
@@ -81,11 +83,12 @@
 
 ## 渗透测试
 
-* [Untitled](shen-tou-ce-shi/untitled.md)
+* [反弹 Shell](shen-tou-ce-shi/untitled.md)
 
 ## 取证
 
-* [Untitled](qu-zheng/untitled.md)
+* [日志分析](qu-zheng/untitled.md)
+* [流量分析](qu-zheng/liu-liang-fen-xi.md)
 
 ## 待整理
 
@@ -115,4 +118,8 @@
   * [内网中间人](dai-zheng-li/pentest/nei-wang-zhong-jian-ren.md)
   * [一句话木马](dai-zheng-li/pentest/yi-ju-hua-mu-ma.md)
   * [反弹 shell](dai-zheng-li/pentest/fan-tan-shell.md)
+
+## 安全研究
+
+* [Untitled](an-quan-yan-jiu/untitled.md)
 
