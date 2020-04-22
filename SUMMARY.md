@@ -107,6 +107,7 @@
   * [常用工具](dai-zheng-li/audit/tools.md)
   * [书籍](dai-zheng-li/audit/shu-ji.md)
 * [渗透测试](dai-zheng-li/pentest/README.md)
+  * [脚本](dai-zheng-li/pentest/jiao-ben.md)
   * [Untitled](dai-zheng-li/pentest/untitled.md)
   * [CTF 搅屎](dai-zheng-li/pentest/ctf-jiao-shi.md)
   * [流量操控技术](dai-zheng-li/pentest/liu-liang-cao-kong-ji-zhu.md)

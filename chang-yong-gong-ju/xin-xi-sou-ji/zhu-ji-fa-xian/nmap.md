@@ -40,6 +40,8 @@ nmap 192.168.1.1
 nmap -O 192.168.1.1
 ```
 
+![](../../../.gitbook/assets/nmap-02.png)
+
 扫描指定端口范围
 
 ```text
