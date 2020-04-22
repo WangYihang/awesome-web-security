@@ -67,3 +67,23 @@
   * [一句话木马](dai-zheng-li/pentest/yi-ju-hua-mu-ma.md)
   * [反弹 shell](dai-zheng-li/pentest/fan-tan-shell.md)
 
+## 前端安全
+
+* [Untitled](qian-duan-an-quan/untitled.md)
+
+## 后端安全
+
+* [Untitled](hou-duan-an-quan/untitled.md)
+
+## 中间件安全
+
+* [Untitled](zhong-jian-jian-an-quan/untitled.md)
+
+## 运维安全
+
+* [Untitled](yun-wei-an-quan/untitled.md)
+
+## 漏洞挖掘
+
+* [Untitled](lou-dong-wa-jue/untitled.md)
+
