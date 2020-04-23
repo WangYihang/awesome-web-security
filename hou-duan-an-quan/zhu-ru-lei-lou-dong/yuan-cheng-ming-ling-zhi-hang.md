@@ -4,6 +4,12 @@
 
 命令组；管道；子命令（如 git --open-file-in-pager）；
 
+Shell 的内置命令（[https://www.tldp.org/LDP/abs/html/internal.html](https://www.tldp.org/LDP/abs/html/internal.html)）
+
+反引号
+
+$\(\(\)\)
+
 命令如何被注入？
 
 判断是否可以注入
