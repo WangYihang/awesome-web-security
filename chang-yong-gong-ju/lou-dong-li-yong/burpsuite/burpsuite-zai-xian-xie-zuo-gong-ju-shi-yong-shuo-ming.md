@@ -17,13 +17,13 @@ BurpSuite-Team-Extension 是一款可以解放 Web 狗双手的插件！有了�
 1. 运行 BurpSuite
 2. Extender-&gt;Extension-&gt;Add
 
-    ![](figure/01.png)
+![](../../../.gitbook/assets/01.png)
 
-3. 选择 `BurpSuite-Team-Extension/target/BurpSuiteCollaborationClient.jar`
+1. 选择 `BurpSuite-Team-Extension/target/BurpSuiteCollaborationClient.jar`
 
-    ![](figure/02.png)
+![](../../../.gitbook/assets/02.png)
 
-4. 此时 BurpSuite 主标签将会出现 Burp TC，表示安装成功
+1. 此时 BurpSuite 主标签将会出现 Burp TC，表示安装成功
 
 ### 配置
 
@@ -42,11 +42,7 @@ BurpSuite-Team-Extension 是一款可以解放 Web 狗双手的插件！有了�
 5. 点击 “Connect” 按钮
 6. 成功连接之后如下图
 
-    ![](figure/03.png)
-
-   **协作**
-
-#### 房间
+### **协作**
 
 **创建房间**
 
