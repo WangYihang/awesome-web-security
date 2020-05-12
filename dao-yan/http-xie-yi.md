@@ -41,7 +41,7 @@ authority = [userinfo@]host[:port]
 ![](../.gitbook/assets/uri-dfa.png)
 
 ```text
-http://admin:123456@www.example.com/index.html?a=1&b=2#toc
+http://admin:123456@www.example.com:8080/index.html?a=1&b=2#toc
 ```
 
 ### HTTP 协议版本
