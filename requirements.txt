@@ -1,0 +1,10 @@
+pycryptodome
+mkdocs
+mkdocs-material
+pymdown-extensions
+mkdocs-mermaid2-plugin
+mkdocs-encryptcontent-plugin
+matplotlib
+jupyterlab
+nbconvert
+mkdocs-jupyter
